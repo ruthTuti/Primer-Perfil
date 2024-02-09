@@ -1,9 +1,36 @@
+
+
 .b{
     background-color: pink ;
 }
 
+
+
+
+
+*{
+    background-color: pink;
+}
     
-    
+    .col-sm-3{
+
+        color:rgb(109, 0, 60);
+        text-align: justify;
+    }
+
+    .col-sm-9{
+
+        text-align: justify;
+    }
+.p{
+      text-align: justify;
+}
+
+.H1{
+    color:rgb(109, 0, 60);
+
+}
+
 
 
 
